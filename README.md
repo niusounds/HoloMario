@@ -4,6 +4,15 @@ SMB in your real world!
 
 **This is NOT a official work of Nintendo.**
 
+## How to use
+
+1. Clone repository.
+2. Open directory with Unity (5.6.1).
+3. Build
+4. Have fun!
+
+See also [tutorial of HoloLens](https://developer.microsoft.com/en-us/windows/mixed-reality/holograms_100).
+
 ## Articles
 
 * [インサイド](https://www.inside-games.jp/article/2017/05/22/107337.html)
