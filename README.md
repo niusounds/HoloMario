@@ -15,11 +15,14 @@ See also [tutorial of HoloLens](https://developer.microsoft.com/en-us/windows/mi
 
 ## Controls
 
-Can be controlled with Bluetooth gamepad. Recommended gamepad is [FC30](https://www.amazon.com/dp/B01N9PWGGT/)!
+Can be controlled with bluetooth gamepad. Recommended gamepad is [FC30](https://www.amazon.com/dp/B01N9PWGGT/)! It can be controlled by hand gesture or bluetooth keyboard. But these methods are not implemented for all actions.
 
-* Jump: A
-* Dash: B
-* Move: Directional buttons
+Action | FC30 | Keyboard | Hand gesture
+--- | --- | --- | ---
+Appear | Start button | (Not implemented) | air-tap
+Jump | A button | Space | Navigation gesture on Y axis
+Dash | B button | B key | (Not implemented)
+Move | Directional buttons | Arrow keys | Navigation gesture on X or Z axis
 
 ## Articles
 
