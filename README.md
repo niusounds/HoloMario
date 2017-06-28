@@ -13,6 +13,14 @@ SMB in your real world!
 
 See also [tutorial of HoloLens](https://developer.microsoft.com/en-us/windows/mixed-reality/holograms_100).
 
+## Controls
+
+Can be controlled with Bluetooth gamepad. Recommended gamepad is [FC30](https://www.amazon.com/dp/B01N9PWGGT/)!
+
+* Jump: A
+* Dash: B
+* Move: Directional buttons
+
 ## Articles
 
 * [インサイド](https://www.inside-games.jp/article/2017/05/22/107337.html)
