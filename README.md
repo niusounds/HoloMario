@@ -2,14 +2,17 @@
 
 SMB in your real world!
 
+![](demo.gif)
+
 **This is NOT a official work of Nintendo.**
 
 ## How to use
 
 1. Clone repository.
-2. Open directory with Unity (5.6.1).
-3. Build
-4. Have fun!
+2. Open directory with Unity (2017.3).
+3. Export C# Project
+4. Build C# Project with Visual Studio 2017
+5. Have fun!
 
 See also [tutorial of HoloLens](https://developer.microsoft.com/en-us/windows/mixed-reality/holograms_100).
 
